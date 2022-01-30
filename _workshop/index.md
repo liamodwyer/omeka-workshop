@@ -1,18 +1,15 @@
 ---
-title: Intro to Omeka # The title of the page
+title: Introduction to Omeka # The title of the page
 date: 0000-01-01    # Page order is set by date
 ---
 
-Lorem markdownum imitata. Causas caeli squalentia comes ictus guttura moenia,
-deficiunt tibi. Illa natas unda supersunt locus: silenti duri veniat furoribus
-certamine, mansit.
+Omeka is a free, flexible, and open source web-publishing platform for the display of library, museum, archives, and scholarly collections and exhibitions. Its “five-minute setup” makes launching an online exhibition as easy as launching a blog.
 
-1. Tepescere at animae
-2. Dulcedine si alvum videri
-3. Mihi coniuge est Picus ad montibus forte
-4. Emi ausis mensis
-5. Hastam ad veni diro candore vestigia natorum
-6. Miserabile et pastoria inde o reliquerat
+In this tutorial, we demonstrate and encourage you to try creating an Omeka instance using the freely available Omeka.net service. The steps in this tutorial will take you through creating items in your repository, describing those objects, adding them to collections. A follow-on tutorial uses Omeka to create an engaging and compelling curated exhibit.
+
+All the files (bundled as a zip file) to carry out this exercise are available here: OmekaTutorialFiles. You can download them, unzip them and save them to your desktop to work with them.
+
+You will create a new account at http://omeka.net; and download the archive of files at https://uccdh.com/images/introtoomeka.zip.
 
 ## Factum duo parte nunc duplicataque perimet mugitibus
 
