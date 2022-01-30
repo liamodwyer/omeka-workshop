@@ -1,5 +1,5 @@
 ---
-title: Hello World  # The title of the page
+title: Digital Storytelling with Omeka  # The title of the page
 date: 0000-01-01    # Page order is set by date
 ---
 
